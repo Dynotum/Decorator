@@ -26,3 +26,5 @@ The decorator pattern is applicable in the following cases:
 
 * When you want to add new properties and functions to the object dynamically;
 * When the extension of classes is superfluous.
+
+https://hyperskill.org
