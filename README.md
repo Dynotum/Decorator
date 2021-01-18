@@ -15,8 +15,7 @@ The decorator pattern has the following components:
 * Decorator has reference to the Component and overridden component methods;
 * Concrete Decorator extends Decorator class and adds new functions, properties or state without creating new classes;
 
-![Image of Yaktocat](https://gssachdeva.files.wordpress.com/2015/12/decorator.png?w=640
-)
+![Image of Yaktocat](![image](https://user-images.githubusercontent.com/4706304/104871051-b3272280-590f-11eb-9e75-d8bd503814f3.png)
 The decorator pattern in JDK:
 
     Streams: java.io package;
@@ -26,5 +25,3 @@ The decorator pattern is applicable in the following cases:
 
 * When you want to add new properties and functions to the object dynamically;
 * When the extension of classes is superfluous.
-
-https://hyperskill.org
